@@ -1,0 +1,1 @@
+ping -t  10.10.10.2 > C:\ping.txt
